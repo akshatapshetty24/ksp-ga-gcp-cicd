@@ -1,0 +1,14 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "Simple Node.js app running on Cloud Run",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "KSP",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
